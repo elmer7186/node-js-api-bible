@@ -1,0 +1,8 @@
+language: node_js
+node_js:
+    - stable
+deploy:
+    provider: heroku
+    app: share-ideas-nodejs
+    api_key:
+        secure: pLMh3geBWCiyJ9Ky0wjCHi3fkkLebK12KMC845q8+uMNlgM4zS2G6dnSbamcjXHgh6c0aNKi65oVvNCthc5elSxX09zIZinjPKdZhYS7uP6WtzcJx43qrUWi+ZQsOYuD0yFA7g2nLyMldlKYChqNgzfk0I9cOO6/PAZbHoKjlQkcec/LhV3W4fOM4qJ6QeNjgwQ34ClvHIjv9TGvfYI8SBtc/ymIz0TjoTVPiYZoXOiMzN1HroZykPJfTcazckBNUPn0RwXTX49Jo2guborrRqSo38OX0iFu4phUSgFruIu0BE1TcXNoy8Mm2zidb8DzKokPI0fteGOvJLuwEqtaz46OuvwSyyr+8o+E4B/63D/lxC39z8IKF6RVfM2PqvDkg7kp+QzzBjlD3bduhW6UglZNmh2k73fMuFKd70HDqvCMvL8QPRsN3ELt+cSZ+E59h0PGa05wg7+INABSda1prs8rWkzSB2iM4x1uq3w9rlp95ojHF/UqCOtslhz10CaIk1XahaNQQkyBAiAktq1vuAGbmgN4/2Ww7X9q9/9B9dV+Y6KwRNFWY8/yYVQTkWyfl45Q1at8XkNUQLggs387Bb+/zvG4nX0NQ3Z/T1e2Pl0CpE9qzwzPLRdXCuYtOYE8bLplnDPYsIG7SGA4/ufjueAzIrT23VhUzT7cSjeZLRo=
