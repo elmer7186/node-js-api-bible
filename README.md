@@ -14,4 +14,5 @@ Practice example for create an API of Node.js
 - <b>Helmet:</b> This solve the main security issues
 - <b>Jest:</b> Testing library
 - <b>Swagger:</b> End points documentation
+- <b>Docker:</b> Deployment container
 - <b>Travis CI:</b> Continuos integration service
